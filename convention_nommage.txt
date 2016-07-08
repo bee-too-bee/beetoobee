@@ -1,0 +1,13 @@
+CONVENTION DE NOMMAGE - Nom du Projet
+
+1. noms de classes, img, fichiers etc. en ANGLAIS.
+2. utiliser uniquement des traits d'unions (pas de majuscules ni de tirets bas, etc.)
+3. toujours utiliser le singulier (sauf cas particuliers php, laravel)
+4. utiliser classes et identifiants comme noms d'image
+5. utiliser un minimun d'id
+6. privilégier les intitulés courts et pertinents (nommés en fonction de la fonctionnalité)
+
+#breadcrumb = fil d'ariane
+.visibility-hidden = pour éléments visibles aux seules technologies d'assistance
+.submit = pour les éléments de soumission de formulaire
+#search pour le formulaire de recherche générique
